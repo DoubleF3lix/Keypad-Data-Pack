@@ -16,8 +16,6 @@
         {"predicate": {"custom_model_data": 9}, "model": "keypad:numbers/nine"},
         {"predicate": {"custom_model_data": 10}, "model": "keypad:numbers/clear"},
         {"predicate": {"custom_model_data": 11}, "model": "keypad:numbers/remove"},
-        {"predicate": {"custom_model_data": 12}, "model": "keypad:numbers/submit"},
-        {"predicate": {"custom_model_data": 13}, "model": "keypad:inverted_keypad"},
-        {"predicate": {"custom_model_data": 14}, "model": "keypad:garden_key"}
+        {"predicate": {"custom_model_data": 12}, "model": "keypad:numbers/submit"}
     ]
 }
