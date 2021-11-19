@@ -1,0 +1,8 @@
+{
+    "unusued.block.iron_door.open": {
+        "sounds": [
+            "keypad:door_unlock"
+        ],
+        "replace": true
+    }
+}

@@ -1,0 +1,1 @@
+execute as @e[tag=keypad.power_door] at @s if score @s keypad.id_door = #current_id keypad.main run function keypad:util/open_door_main

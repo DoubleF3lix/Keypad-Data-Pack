@@ -1,0 +1,1 @@
+execute if score $input keypad.main matches 1.. run function keypad:update_submit_name

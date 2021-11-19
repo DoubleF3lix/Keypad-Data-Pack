@@ -1,0 +1,25 @@
+{
+    "click_button": {
+        "sounds": [
+            "keypad:keypad_beep1",
+            "keypad:keypad_beep2",
+            "keypad:keypad_beep3",
+            "keypad:keypad_beep4"
+        ]
+    },
+    "incorrect": {
+        "sounds": [
+            "keypad:keypad_fail"
+        ]
+    },
+    "correct": {
+        "sounds": [
+            "keypad:keypad_success"
+        ]
+    },
+    "door_unlock": {
+        "sounds": [
+            "keypad:door_unlock"
+        ]
+    }
+}

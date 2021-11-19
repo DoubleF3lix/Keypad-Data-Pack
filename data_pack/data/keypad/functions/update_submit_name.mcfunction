@@ -1,0 +1,2 @@
+data modify block 0 0 0 Text1 set value '[{"text":"Submit (","italic":false}, {"score":{"name":"$input","objective":"keypad.main"},"italic":false}, {"text":")","italic":false}]'
+execute at @e[tag=keypad.open] run data modify block ~ ~ ~ Items[{Slot:6b}].tag.display.Name set from block 0 0 0 Text1

@@ -1,0 +1,23 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0":  "item/clock_00"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 0}, "model": "keypad:numbers/zero"},
+        {"predicate": {"custom_model_data": 1}, "model": "keypad:numbers/one"},
+        {"predicate": {"custom_model_data": 2}, "model": "keypad:numbers/two"},
+        {"predicate": {"custom_model_data": 3}, "model": "keypad:numbers/three"},
+        {"predicate": {"custom_model_data": 4}, "model": "keypad:numbers/four"},
+        {"predicate": {"custom_model_data": 5}, "model": "keypad:numbers/five"},
+        {"predicate": {"custom_model_data": 6}, "model": "keypad:numbers/six"},
+        {"predicate": {"custom_model_data": 7}, "model": "keypad:numbers/seven"},
+        {"predicate": {"custom_model_data": 8}, "model": "keypad:numbers/eight"},
+        {"predicate": {"custom_model_data": 9}, "model": "keypad:numbers/nine"},
+        {"predicate": {"custom_model_data": 10}, "model": "keypad:numbers/clear"},
+        {"predicate": {"custom_model_data": 11}, "model": "keypad:numbers/remove"},
+        {"predicate": {"custom_model_data": 12}, "model": "keypad:numbers/submit"},
+        {"predicate": {"custom_model_data": 13}, "model": "keypad:inverted_keypad"},
+        {"predicate": {"custom_model_data": 14}, "model": "keypad:garden_key"}
+    ]
+}
